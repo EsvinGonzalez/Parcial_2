@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\bin\Debug\Serie_No_3.exe.config
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\bin\Debug\Serie_No_3.exe
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\bin\Debug\Serie_No_3.pdb
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.exe
+C:\Users\Giovanni\source\repos\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.pdb
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\bin\Debug\Serie_No_3.exe.config
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\bin\Debug\Serie_No_3.exe
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\bin\Debug\Serie_No_3.pdb
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.csproj.AssemblyReference.cache
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.exe
+C:\Users\Giovanni\Videos\Examen 2\Serie_No_3\Serie_No_3\obj\Debug\Serie_No_3.pdb

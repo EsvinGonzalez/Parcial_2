@@ -1,0 +1,30 @@
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\bin\Debug\Agenda_Pro.exe.config
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\bin\Debug\Agenda_Pro.exe
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\bin\Debug\Agenda_Pro.pdb
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\MainWindow.baml
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\MainWindow.g.cs
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\App.g.cs
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro_MarkupCompile.cache
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.g.resources
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.Properties.Resources.resources
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.exe
+C:\Users\Giovanni\source\repos\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.pdb
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\bin\Debug\Agenda_Pro.exe.config
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\bin\Debug\Agenda_Pro.exe
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\bin\Debug\Agenda_Pro.pdb
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.AssemblyReference.cache
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\MainWindow.baml
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\MainWindow.g.cs
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\App.g.cs
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro_MarkupCompile.cache
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.g.resources
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.Properties.Resources.resources
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.GenerateResource.cache
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.exe
+C:\Users\Giovanni\Videos\Examen 2\Agenda_Pro\Agenda_Pro\obj\Debug\Agenda_Pro.pdb
